@@ -94,7 +94,7 @@ If you use this dataset in your research or publication, please cite the followi
 author = {Nidhi Kulkarni},
 title = {Gestational DM Clinical Features and Biomarkers Dataset},
 year = 2025,
-url = {https://www.kaggle.com/datasets/nidhik21/gestational-dm-clinical-features-and-biomarkers/data}
+url = {https://github.com/Nidhirk2113/GDM-risk-prediction-dataset}
 }
 
 
