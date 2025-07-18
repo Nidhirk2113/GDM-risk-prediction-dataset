@@ -1,4 +1,3 @@
-# GDM-risk-prediction-dataset
 # 🎯 GDM Risk Prediction Dataset
 
 ## 🧬 Overview
